@@ -68,5 +68,8 @@
     },{
         "name": "temurin-20.0.1+9",
         "url" : "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.1%2B9/OpenJDK20U-jdk_x64_windows_hotspot_20.0.1_9.zip"
+    },{
+        "name": "temurin-21.0.3+9.0.LTS",
+        "url" : "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jdk_x64_windows_hotspot_21.0.3_9.zip"
     }
 ]
